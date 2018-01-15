@@ -65,3 +65,11 @@ cocotouch.on('message', (message) => {
 });
 ```
 
+## 运行 Pacman 游戏
+
+```bash
+npm install http-server -g;
+hs;
+open http://localhost:8080/examples/pacman/index.html // 从默认端口打开游戏页面
+```
+
