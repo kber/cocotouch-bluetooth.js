@@ -1,8 +1,12 @@
 # CocoTouch 蓝牙SDK v0.1.0
 
-## 如何集成到你的代码里面
+## 集成到你的代码里面
 
-首先在你的代码里面加入 `cocotouch.js` 文件，如果是不支持的浏览器里的话，会 bluetooth api 不兼容的错误，我们推荐你使用最新的 Chrome 浏览器。
+在你的代码里面加入 `cocotouch.js` 文件，如果是不支持的浏览器里的话，会 Bluetooth API 不兼容的错误，我们推荐你使用最新的 Chrome 浏览器。
+
+```
+<script src="./cocotouch.js"></script>
+```
 
 ### 创建 CocoTouch 对象
 
