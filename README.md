@@ -49,7 +49,7 @@ cocotouch.on('disconnected', () => {
 });
 ```
 
-#### `message` 消息事件
+### `message` 消息事件
 
 当 CocoTouch 接收到消息的时候触发。
 
