@@ -4,7 +4,7 @@
 
 在你的代码里面加入 `cocotouch.js` 文件，如果是不支持的浏览器里的话，会 Bluetooth API 不兼容的错误，我们推荐你使用最新的 Chrome 浏览器。
 
-```
+```html
 <script src="./cocotouch.js"></script>
 ```
 
